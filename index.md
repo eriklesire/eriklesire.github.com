@@ -5,8 +5,6 @@ tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-<embed type=”application/x-shockwave-flash” src=”http://www.google.com/reader/ui/3523697345-audio-player.swf” flashvars=”audioUrl=_audio/pratenmetjou20140406.mp3” width=”400″ height=”27″ quality=”best”></embed>
-
 Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
 Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
