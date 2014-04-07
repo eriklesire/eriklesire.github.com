@@ -5,6 +5,8 @@ tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
+<embed height="50" width="100" src="_audio/pratenmetjou20140406.mp3">
+
 [Praten met jou](http://www.ticketmatic.com)
 
 [Who needs Bob Dylan](http://www.ticketmatic.com)
